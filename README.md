@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -79,7 +78,6 @@
         <a href="#" class="button">View Demo</a>
         <a href="#" class="button">Report Bug</a>
         <a href="#" class="button">Request Feature</a>
-
         <h2>About The Project</h2>
         <p>
             This application provides a seamless integration between Google Calendar and Google Photos, enabling users to:
@@ -102,7 +100,6 @@
                 <p>Generate and regenerate monthly event summaries.</p>
             </div>
         </div>
-
         <h2>Built With</h2>
         <ul>
             <li>React</li>
@@ -110,7 +107,6 @@
             <li>CSS</li>
             <li>Flask (Backend)</li>
         </ul>
-
         <h2>Getting Started</h2>
         <h3>Prerequisites</h3>
         <ul>
@@ -119,11 +115,10 @@
             <li>Python (v3.7 or later)</li>
             <li>pip</li>
         </ul>
-
         <h3>Installation</h3>
         <ol>
             <li>Clone the repo
-                <pre><code>git clone https://github.com/your_username/google-calendar-photos-integration.git</code></pre>
+                <pre><code>git clone https://github.com/Suryanshnaithani/CalendarCam.git</code></pre>
             </li>
             <li>Install NPM packages
                 <pre><code>npm install</code></pre>
@@ -135,12 +130,6 @@
                 <pre><code>const API_KEY = 'ENTER YOUR API';</code></pre>
             </li>
         </ol>
-
-        <h2>Usage</h2>
-        <p>
-            Use this space to show useful examples of how the project can be used. Additional screenshots, code examples, and demos work well in this space.
-        </p>
-
         <h2>Roadmap</h2>
         <ul>
             <li>Add support for multiple Google accounts</li>
@@ -148,7 +137,6 @@
             <li>Create mobile app versions (iOS and Android)</li>
             <li>Add support for other calendar and photo services</li>
         </ul>
-
         <h2>Contributing</h2>
         <p>
             Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -160,8 +148,6 @@
             <li>Push to the Branch (<code>git push origin feature/AmazingFeature</code>)</li>
             <li>Open a Pull Request</li>
         </ol>
-
-
     </div>
 </body>
 </html>
